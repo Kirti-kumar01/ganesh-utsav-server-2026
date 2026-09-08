@@ -1,0 +1,22 @@
+// Master list of responsibilities. Statuses live separately in data/status.json
+module.exports = [
+  { id: 't01', num: '1.1', cat: 'Pandal & Decoration', title: 'Rangoli', days: ['14th', '25th'], people: ['Himani'] },
+  { id: 't02', num: '1.2', cat: 'Pandal & Decoration', title: 'Pandal Setup', days: ['14th', '25th'], people: ['Janak', 'Devang Chouhan', 'Aastha Negi'] },
+  { id: 't03', num: '1.3', cat: 'Pandal & Decoration', title: 'Inner Office Decoration', days: ['14th', '25th'], people: ['Janak', 'Dilip Gurjar'] },
+  { id: 't19', num: '15', cat: 'Pandal & Decoration', title: 'GaneshJi Idol Receiving & Decoration', days: ['14th'], people: ['Himani'] },
+  { id: 't04', num: '2', cat: 'Music & Celebration', title: 'Dhol', days: ['14th', '25th'], people: ['Kalika'] },
+  { id: 't05', num: '3', cat: 'Music & Celebration', title: 'DJ', days: ['14th'], people: [] },
+  { id: 't06', num: '4', cat: 'Music & Celebration', title: 'Fatake & Jhande', days: ['14th', '25th'], people: ['Mayur Pare', 'Atharv Rawat'] },
+  { id: 't07', num: '5', cat: 'Media', title: 'Photo & Video', days: ['14th', '25th'], people: ['Anadi Kapoor'] },
+  { id: 't08', num: '6', cat: 'Prasad & Pooja', title: 'Prasad for 10 Days', days: ['14th', '25th', '10 days'], people: ['Mohit Yadav'] },
+  { id: 't09', num: '6.1', cat: 'Prasad & Pooja', title: 'Fool Mala (Garland)', days: ['10 days'], people: ['Sandeep Sharma'] },
+  { id: 't10', num: '7', cat: 'Prasad & Pooja', title: 'PanditJi', days: ['14th', '25th'], people: ['Navin Joshi'] },
+  { id: 't11', num: '7.1', cat: 'Prasad & Pooja', title: 'Poojan Samagri', days: ['14th', '25th'], people: ['Ashu Pateriya'] },
+  { id: 't12', num: '8', cat: 'Logistics', title: 'Jeep', days: ['14th', '25th'], people: ['Nikita Sahu'] },
+  { id: 't13', num: '9', cat: 'Logistics', title: 'Lights Management', days: ['10 days'], people: ['Janak'] },
+  { id: 't14', num: '10', cat: 'Logistics', title: 'Sound Management', days: ['10 days'], people: ['Kartik Mehta'] },
+  { id: 't15', num: '11', cat: 'Sundar Kaand', title: 'Sundar Kaand Music Instruments', days: ['18th'], people: ['Kalika'] },
+  { id: 't16', num: '12', cat: 'Sundar Kaand', title: 'Sundar Kaand Organization', days: ['18th'], people: ['Vikrant Singh'] },
+  { id: 't17', num: '13', cat: 'Food', title: 'Sabudana Khichdi & Chips', days: ['18th'], people: ['Sagar Kushwaha', 'Sandeep Sharma'] },
+  { id: 't18', num: '14', cat: 'Food', title: 'Food (Bhandara)', days: ['25th'], people: ['Abhay Upadhyay', 'Abhishek', 'Aniket Sharma', 'Kalika', 'Anadi Kapoor', 'Amit Sharma', 'Neha Raghuwanshi'] },
+];
